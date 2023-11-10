@@ -1,0 +1,4 @@
+﻿Identifiant station;Nom station;Station en fonctionnement;Capacité de la station;Nombre bornettes libres;Nombre total vélos disponibles;Vélos mécaniques disponibles;Vélos électriques disponibles;Borne de paiement disponible;Retour vélib possible;Actualisation de la donnée;Nom communes équipées
+31104;Mairie de Rosny-sous-Bois;OUI;30;16;14;5;9;OUI;OUI;2023-11-05T20:41:57+01:00;Rosny-sous-Bois
+16107;Benjamin Godard - Victor Hugo;OUI;35;32;3;1;2;OUI;OUI;2023-11-05T20:34:11+01:00;Paris
+44015;Rouget de L'isle - Watteau;OUI;20;4;16;3;13;OUI;OUI;2023-11-05T20:43:10+01:00;Vitry-sur-Seine

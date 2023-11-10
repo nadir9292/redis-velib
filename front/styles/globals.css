@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#__next {
+  @apply min-h-full;
+  background-color: #001d3d;
+  background-image: url("../public/bg.jpg");
+}
+
+/* Pour Firefox */
+body {
+  scrollbar-width: none;
+}
+
+/* Pour Webkit (Chrome, Safari) */
+body::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}
